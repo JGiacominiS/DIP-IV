@@ -4,7 +4,9 @@ Aqui iremos registrar todo desenvolvimento do nosso DIP IV.;
 DESENVOLVIMENTO DE DISPOSITIVOS PARA LABORATÓRIO MAKER;
 
 Tema escolhido:;
+
 Desenvolvimento de uma CNC Router;
+
     Premissas, restrições e requisitos
 
         • Ser de fácil manutenção;
